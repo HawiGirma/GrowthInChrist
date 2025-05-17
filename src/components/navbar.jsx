@@ -17,7 +17,7 @@ function Navbar() {
     <div className="container mx-auto px-4 py-6 scroll-smooth relative">
       <header className="flex items-center font-sora justify-between">
         <Link to="/" className="text-xl font-bold tracking-wider uppercase">
-          Body-Of-Christ
+          Growth-In-Christ
         </Link>
 
         <nav className="hidden items-center space-x-8 md:flex">

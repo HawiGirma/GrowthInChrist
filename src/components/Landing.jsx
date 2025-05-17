@@ -18,12 +18,19 @@ export default function Landing() {
 
             <div className="mt-12 md:mt-20">
               <div className="text-sm font-sora font-medium uppercase md:text-base">
-                About
+                Grow in Christ, Flourish in Faith
               </div>
-              <p className="mt-2  max-w-md text-sm leading-snug font-sora font-large text-black uppercase md:text-base">
-                Body of Christ is a community of believers who are committed to
-                their head Christ. Walitti qabama dhagna isa tokkicha qalame
-                sanaa
+              <p className="mt-2  max-w-lg text-sm leading-snug font-sora font-large text-black uppercase md:text-base">
+                Welcome to a place where your spiritual journey is nurtured and
+                your faith deepens. As it is written, “But grow in the grace and
+                knowledge of our Lord and Savior Jesus Christ” (2 Peter 3:18),
+                we are called to continual growth in Him. Whether you’re just
+                beginning your walk or seeking deeper intimacy with God, we
+                believe in His promise: “Like a tree planted by streams of
+                water, which yields its fruit in season and whose leaf does not
+                wither—whatever they do prospers” (Psalm 1:3). Let’s grow
+                together, rooted in truth, strengthened by grace, and
+                transformed by the Spirit.
               </p>
 
               <button className="mt-6 flex items-center font-sora font-bold space-x-2 rounded-lg bg-white/20 px-6 py-2 backdrop-blur-sm hover:bg-rose-400">
