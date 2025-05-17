@@ -11,7 +11,7 @@ const Service = () => {
               Church Ministries
             </h2>
             <p className="text-gray-300 font-sora mb-6">
-              We are devoted to serving the Body of Christ through spirit-led
+              We are devoted to serving the Growth in Christ through spirit-led
               worship, prayer, discipleship, and community outreach.
             </p>
             <button className="bg-[#16423C] hover:bg-[#6A9C89] text-white font-sora font-medium py-2 px-6 rounded-full transition-colors">

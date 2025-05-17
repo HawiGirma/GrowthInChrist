@@ -10,17 +10,17 @@ export default function Landing() {
         <main className="mt-12 grid grid-cols-1 py-16 items-center gap-8 md:mt-20 md:grid-cols-2">
           {/* Left Column - Hero Text */}
           <div className="relative z-10">
-            <h1 className="text-6xl leading-tight font-sora font-bold tracking-tighter uppercase md:text-8xl">
-              Obboloota
+            <h1 className="text-6xl leading-tight font-sora font-bold tracking-tighter uppercase md:text-7xl">
+              Grow in Christ,
               <br />
-              Yesuus.
+              Flourish in Faith.
             </h1>
 
             <div className="mt-12 md:mt-20">
               <div className="text-sm font-sora font-medium uppercase md:text-base">
-                Grow in Christ, Flourish in Faith
+                About
               </div>
-              <p className="mt-2  max-w-lg text-sm leading-snug font-sora font-large text-black uppercase md:text-base">
+              <p className="mt-2  max-w-2xl text-sm leading-snug font-sora font-large text-black uppercase md:text-base">
                 Welcome to a place where your spiritual journey is nurtured and
                 your faith deepens. As it is written, “But grow in the grace and
                 knowledge of our Lord and Savior Jesus Christ” (2 Peter 3:18),
@@ -56,11 +56,6 @@ export default function Landing() {
                 height={700}
                 className="relative z-10 border-white "
               />
-
-              {/* Play Button */}
-              <button className="absolute bottom-10 left-10 z-20 rounded-full bg-white/20 p-2 backdrop-blur-sm hover:bg-rose-400 hover:shadow-rose-200">
-                <Play size={20} />
-              </button>
             </div>
           </div>
         </main>

@@ -42,13 +42,13 @@ const Footer = () => {
                   </svg>
                 </div>
                 <span className="text-[#F2A900] font-bold text-xl">
-                  BODY-OF-CHRIST
+                  GROWTH-IN-CHRIST
                 </span>
               </div>
 
               <p className="text-white max-w-md">
-                Body of Christ is a community of believers who are committed to
-                their head Christ.
+                Growth in Christ is a community of believers who are committed
+                to their head Christ.
               </p>
 
               {/* <div className="flex space-x-4">
