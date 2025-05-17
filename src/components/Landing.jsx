@@ -33,7 +33,7 @@ export default function Landing() {
                 transformed by the Spirit.
               </p>
 
-              <button className="mt-6 flex items-center font-sora font-bold space-x-2 rounded-lg bg-white/20 px-6 py-2 backdrop-blur-sm hover:bg-rose-400">
+              <button className="hover:bg-[#6A9C89] text-[#16423C] mt-6 flex items-center font-sora font-bold space-x-2 rounded-lg bg-white/20 px-6 py-2 backdrop-blur-sm">
                 <span className="text-sm uppercase">Explore More</span>
                 <ChevronRight size={16} />
               </button>

@@ -17,7 +17,9 @@ function Contact() {
               Our Contact Information
             </h2>
             <p className="text-gray-600 mb-4">
-              Quis ipsum sit, sed do eiusmod tempor.
+              We’d love to hear from you—whether you have a question, prayer
+              request, or want to grow together in Christ, feel free to reach
+              out
             </p>
 
             {/* Phone */}

@@ -21,16 +21,16 @@ function Navbar() {
         </Link>
 
         <nav className="hidden items-center space-x-8 md:flex">
-          <Link to="/about" className="text-sm hover:text-red-500">
+          <Link to="/about" className="text-sm hover:text-[#16423C]">
             About
           </Link>
-          <Link to="/service" className="text-sm hover:text-red-600">
+          <Link to="/service" className="text-sm hover:text-[#16423C]">
             Services
           </Link>
-          {/* <a href="#" className="text-sm hover:text-red-600">
+          {/* <a href="#" className="text-sm hover:text-[#16423C]">
             Programs
           </a> */}
-          <Link to="/contact" className="text-sm hover:text-red-600">
+          <Link to="/contact" className="text-sm hover:text-[#16423C]">
             Contact Us
           </Link>
         </nav>
@@ -45,7 +45,7 @@ function Navbar() {
           </button>
           <Link
             to="/gallery"
-            className="text-sm hover:text-red-600 uppercase md:block"
+            className="text-sm hover:text-[#16423C] uppercase md:block"
           >
             Gallery
           </Link>
@@ -93,21 +93,21 @@ function Navbar() {
             </Link>
             <Link
               to="/service"
-              className="text-lg font-medium hover:text-red-600 border-b border-gray-100 pb-4"
+              className="text-lg font-medium hover:text-[#16423C] border-b border-gray-100 pb-4"
               onClick={closeMenu}
             >
               Services
             </Link>
             <Link
               to="/contact"
-              className="text-lg font-medium hover:text-red-600 border-b border-gray-100 pb-4"
+              className="text-lg font-medium hover:text-[#16423C] border-b border-gray-100 pb-4"
               onClick={closeMenu}
             >
               Contact Us
             </Link>
             <Link
               to="/gallery"
-              className="text-lg font-medium hover:text-red-600 uppercase"
+              className="text-lg font-medium hover:text-[#16423C] uppercase"
               onClick={closeMenu}
             >
               Gallery
